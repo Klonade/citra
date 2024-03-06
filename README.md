@@ -2,7 +2,7 @@
 
 A re-upload of the legendary 3ds emulator, which was taken down alongside yuzu due to the lawsuit they faced.
 
-The google drive link is no longer nessesary, you can git clone straght from here
+The google drive link is no longer nessesary, you can git clone straght from this github page. If you want the .tar.xz (for some reason )
 https://drive.google.com/file/d/12rK2r6wzEDieiI8T8Y1kNFRsMH1BiafK/view?usp=sharing
 
 The other day I build citra from source. I didn't delete the source files I git cloned to that folder but if I needed space I can delete it if need be. My shocked ass when citra and yuzu are removed from the internet. I literally just made this github account just to reupload these files as fast as possible.
@@ -12,7 +12,7 @@ I reuploaded this because I'm a fan, I AM NOT A DEV I WILL NEVER UPDATE THIS. I'
 
 
 # BUILD INSTRUCTIONS 
-Note: Instead of git cloneing (Because the github page for citra was removed) use the .tar.gz because that IS the git clone I used to build citra 
+Note: When git cloneing, use '$ git clone --recursive https://github.com/Klonade/citra_reupload' instead of '$ git clone --recursive https://github.com/citra-emu/citra'
 
 
 Linux: https://web.archive.org/web/20230531223149/https://citra-emu.org/wiki/building-for-linux/
