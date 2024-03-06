@@ -2,7 +2,8 @@
 
 A re-upload of the legendary 3ds emulator, which was taken down alongside yuzu due to the lawsuit they faced.
 
-I can't upload a ton of files at the same time so I have set up a google drive link to the .tar.gz I've never used github IM SORRY so here's the link https://drive.google.com/file/d/12rK2r6wzEDieiI8T8Y1kNFRsMH1BiafK/view?usp=sharing
+The google drive link is no longer nessesary, you can git clone straght from here
+https://drive.google.com/file/d/12rK2r6wzEDieiI8T8Y1kNFRsMH1BiafK/view?usp=sharing
 
 The other day I build citra from source. I didn't delete the source files I git cloned to that folder but if I needed space I can delete it if need be. My shocked ass when citra and yuzu are removed from the internet. I literally just made this github account just to reupload these files as fast as possible.
 
